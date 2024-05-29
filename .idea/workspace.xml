@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b26b9bdf-90a9-49e3-b53a-273412fffa60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/other-examples/app/src/main/java/PythonIntegration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/other-examples/app/src/main/java/embeddings_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/other-examples/app/src/main/python/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/other-examples/app/src/main/python/services/embeddings_generator.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2d8RMLzW4Fm5aapzRkTlskU56u8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "coolvm9@gmail.com",
+    "ACTIVE_CLOUD_PROJECT_ID": "neat-vent-381323",
+    "ACTIVE_CLOUD_PROJECT_NAME": "My First Project",
+    "ACTIVE_CLOUD_PROJECT_NUMBER": "13092500545",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.google.cloudcode.ide_session_index": "20240401_0000",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b26b9bdf-90a9-49e3-b53a-273412fffa60" name="Changes" comment="" />
+      <created>1709387671075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709387671075</updated>
+    </task>
+    <servers />
+  </component>
+</project>
