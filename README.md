@@ -37,3 +37,10 @@ Dim paramParts() As String
     ' If key is not found, return an empty string
     GetValueFromUrl = ""
 End Function
+
+
+Function GetHyperlinkURL(cell As Range) As String
+On Error Resume Next
+GetHyperlinkURL = cell.Hyperlinks(1).Address
+On Error GoTo 0
+End Function
